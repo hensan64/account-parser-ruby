@@ -1,0 +1,3 @@
+This application follows the following guide lines:
+	1. RubyGem file structure: http://http://docs.rubygems.org/read/chapter/24
+	2. Ruby style guide:       https://github.com/bbatsov/ruby-style-guide
